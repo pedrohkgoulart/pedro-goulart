@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?> <!-- Created with Vectornator for iOS (http://vectornator.io/) --><!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg style="fill-rule:evenodd;clip-rule:evenodd;stroke-linecap:round;stroke-linejoin:round;" xmlns:vectornator="http://vectornator.io" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns="http://www.w3.org/2000/svg" xml:space="preserve" version="1.1" viewBox="0 0 192 146">
+<metadata>
+<vectornator:setting key="DynamicGuides" value="1"/>
+<vectornator:setting key="Units" value="Points"/>
+<vectornator:setting key="GuidesVisible" value="1"/>
+<vectornator:setting key="RulersVisible" value="1"/>
+<vectornator:setting key="SnapToGuides" value="1"/>
+<vectornator:setting key="GridSpacing" value="36"/>
+</metadata>
+<defs/>
+<g id="Layer 1" vectornator:layerName="Layer 1">
+<g opacity="1">
+<path stroke="#03373c" fill-rule="evenodd" stroke-width="1" d="M87.8757+39.1546C88.0414+92.577+88.0414+92.577+88.2073+146C44.1036+146+44.1036+146+4.85138e-06+146C19.9358+119.403+42.3949+94.2307+63.6684+68.6865C71.2048+59.6367+82.625+49.6623+87.8757+39.1546Z" fill="#03373c" stroke-linecap="round" opacity="1" stroke-linejoin="round"/>
+<path stroke="#01363b" fill-rule="evenodd" stroke-width="1" d="M103.461+0C147.399+0+147.399+0+191.336+0C191.336+2.65923+171.854+24.1232+168.788+27.8728C147.44+53.9806+122.149+79.1291+103.461+107.178C103.461+53.5887+103.461+53.5887+103.461+0Z" fill="#01363b" stroke-linecap="round" opacity="1" stroke-linejoin="round"/>
+<path stroke="#02373c" fill-rule="evenodd" stroke-width="1" d="M4.85138e-06+0C44.1036+0+44.1036+0+88.2073+0C88.2073+58.4671+4.85138e-06+57.7849+4.85138e-06+0Z" fill="#02373c" stroke-linecap="round" opacity="1" stroke-linejoin="round"/>
+<path stroke="#02373c" fill-rule="evenodd" stroke-width="1" d="M192+146C147.565+146+147.565+146+103.129+146C103.129+114.72+137.159+94.9829+165.139+106.182C182.149+112.99+189.132+128.782+192+146Z" fill="#02373c" stroke-linecap="round" opacity="1" stroke-linejoin="round"/>
+</g>
+</g>
+</svg>

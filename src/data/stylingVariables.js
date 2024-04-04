@@ -1,0 +1,11 @@
+export const baseTextColor = "#212529";
+export const secondaryTextColor = "#ccc";
+export const secondaryTextColorLight = "#eee";
+export const highlightTextColor = "#188CA7";
+export const highlightTextColorLight = "#4693C2";
+export const navBackground = "rgba(0, 0, 0, 0.92)";
+export const navAltBackground = "rgba(0, 0, 0, 0.82)";
+export const sectionBackground = "#fff";
+export const sectionAltBackground = "#f8f8f8";
+export const mainBorderRadius = "1rem";
+export const circularBorderRadius = "50vh";
